@@ -33,10 +33,40 @@ const songs = [
     artist: "Naruto",
   },
   {
-    name: "jacinto-3",
-    displayName: "Electronic Chill Machine",
-    artist: "jacinto",
+    name: "song-4",
+    displayName: "Made in Abyss",
+    artist: "Made in Abyss",
   },
+  {
+    name: "song-5",
+    displayName: "To the Abyss!",
+    artist: "Made in Abyss",
+  },
+  {
+    name: "song-6",
+    displayName: "Remembering Home",
+    artist: "Made in Abyss",
+  },
+  {
+    name: "song-7",
+    displayName: "Hanezeve Caradhina ft Takeshi Saito",
+    artist: "Made in Abyss",
+  },
+  {
+    name: "song-8",
+    displayName: "",
+    artist: "Made in Abyss",
+  },
+  {
+    name: "song-9",
+    displayName: "",
+    artist: "Made in Abyss",
+  },
+  {
+    name: "song-10",
+    displayName: "Next To You",
+    artist: "Parasyte",
+  }
 ];
 
 let isPlaying = false;
