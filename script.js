@@ -54,13 +54,13 @@ const songs = [
   },
   {
     name: "song-8",
-    displayName: "",
-    artist: "Made in Abyss",
+    displayName: "Main Theme -Homage ",
+    artist: "Fullmetal Alchemist Brotherhood",
   },
   {
     name: "song-9",
-    displayName: "",
-    artist: "Made in Abyss",
+    displayName: "The Promised ",
+    artist: "Neverland",
   },
   {
     name: "song-10",
