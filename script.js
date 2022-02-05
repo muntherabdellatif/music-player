@@ -92,7 +92,7 @@ playBtn.addEventListener("click", () => {
 function loadSong(song) {
   musicTitle.textContent = song.displayName;
   musicImg.src = `img/${song.name}.jpg`;
-  music.src = `music/${song.name}.mp4`;
+  music.src = `music/${song.name}.mp3`;
   musicArtist.textContent = song.artist;
 }
 
